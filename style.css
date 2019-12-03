@@ -1,0 +1,10 @@
+body {
+  background-image: url("background.jpg");
+  color: white;
+  font-family: SGB;
+}
+
+@font-face {
+    font-family: "SGB";
+    src: url(SentyGoldenBell.ttf);
+}
