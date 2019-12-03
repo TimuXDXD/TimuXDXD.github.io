@@ -1,5 +1,9 @@
 body {
   background-image: url("background.jpg");
+  background-attachment: fixed;
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: bottom;
   color: white;
   font-family: SGB;
 }
